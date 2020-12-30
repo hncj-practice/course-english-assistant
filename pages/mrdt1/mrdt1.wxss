@@ -1,0 +1,30 @@
+/* pages/mrdt1/mrdt1.wxss */
+
+video {
+  width:100%;
+  display: flex;
+  position: fixed;
+}
+.title{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 35px;
+}
+.word{
+  font-size: 20px;
+  margin-left: 50rpx;
+  text-indent: 2em;
+}
+page{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  /* background-color: lightblue; */
+  opacity: (0.3);
+  /* 背景渐变 */
+  /* background: -webkit-linear-gradient(top,white,lightblue
+  ,rgb(83, 201, 248)); */
+  /* background: -webkit-linear-gradient(left,pink,lightblue,skyblue); */
+}

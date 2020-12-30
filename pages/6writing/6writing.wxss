@@ -1,0 +1,4 @@
+/* pages/6writing/6writing.wxss */
+.word{
+  font-size: 20px;
+}

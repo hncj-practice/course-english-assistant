@@ -1,0 +1,95 @@
+<!--pages/list/list.wxml-->
+<!-- 轮播图 -->
+<swiper indicator-dots="true" autoplay="true" interval="3000" circular="true">
+  <swiper-item>
+    <image bindtap="bind4wordstap" src="../../images/lbt1.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image bindtap="bind6listeningtap" src="../../images/lbt2.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image bindtap="bind4gpcztap" src="../../images/lbt3.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image bindtap="bind6wordstap" src="../../images/lbt4.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image bindtap="bind4skilltap" src="../../images/lbt5.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image bindtap="bindresourcetap" src="../../images/lbt6.jpg" />
+  </swiper-item>
+  <swiper-item>
+    <image bindtap="bind6skilltap" src="../../images/lbt7.jpg" />
+  </swiper-item>
+</swiper>
+
+<!-- 每日短听 -->
+<view class="mrdt">
+  <image class="mrdt_image" src="../../images/mrdt.jpg" />
+  <view>
+    <image class="stop_image" src="../../images/stop.jpg" />
+    <text bindtap="bindmrdt1tap" class="mrdt_word">The Workplace Stress Solution</text>
+  </view>
+  <!-- <view>  
+  <image class="stop_image" src="../../images/stop.jpg"/>
+ <text  bindtap="bindmrdt2tap"class="mrdt_word">The Surprising Origins of Thanksgiving Foods</text>
+ </view> -->
+  <view>
+    <image class="stop_image" src="../../images/stop.jpg" />
+    <text bindtap="bindmrdt3tap" class="mrdt_word">Bring Back The Family Dinner</text>
+  </view>
+  <view>
+    <image class="stop_image" src="../../images/stop.jpg" />
+    <text bindtap="bindmrdt4tap" class="mrdt_word">Why Is Everyone So Bad At Giving Gifts?</text>
+  </view>
+  <!-- <view>  
+  <image class="stop_image" src="../../images/stop.jpg"/>
+ <text bindtap="bindmrdt5tap" class="mrdt_word">Dubai Creek Tower:Building the World's Tallest Structure</text>
+ </view> -->
+  <view>
+    <image class="stop_image" src="../../images/stop.jpg" />
+    <text bindtap="bindmrdt6tap" class="mrdt_word">How To Shut Down Haters </text>
+  </view>
+</view>
+
+<!-- 底部 -->
+
+<view class="wc">
+  <view bindtap="bindtranslatetap" class="nc">
+    <image class="imagetranslate" src="../../images/translate.jpg"></image>
+    <text class="word1">翻译</text>
+  </view>
+
+  <view bindtap="bindcet4tap" class="nc">
+    <image class="imagecet4" src="../../images/cet4.jpg" />
+    <text class="word2">英语四级</text>
+  </view>
+
+  <view bindtap="bindcet6tap" class="nc">
+    <image class="imagecet6" src="../../images/cet6.jpg" />
+    <text class="word2">英语六级</text>
+  </view>
+
+  <view bindtap="bindresourcetap" class="nc">
+    <image class="imagecet6" src="../../images/resource.jpg" />
+    <text class="word2">书籍推荐</text>
+
+  </view>
+</view>
+
+
+<!-- <view class="bottom">
+  <view>
+    <image class="wd" src="../../images/wode.jpg" />
+    <text class="word">我的 </text>
+  </view>
+
+
+
+  <view>
+    <image class="wd" src="../../images/shoucang.jpg" />
+    <text class="word"> 收藏</text>
+  </view>
+
+</view> -->

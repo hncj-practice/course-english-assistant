@@ -1,0 +1,9 @@
+/* pages/4writing/4writing.wxss */
+.title{
+  font-size: 50rpx;
+  text-align: center;
+  margin-left: 65px;
+}
+.word{
+  font-size: 35rpx;
+}

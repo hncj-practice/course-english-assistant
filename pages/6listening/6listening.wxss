@@ -1,0 +1,52 @@
+/* pages/6listening/6listening.wxss */
+image {
+  width: 100%;
+  height: 400rpx;
+}
+
+.title {
+  text-align: center;
+  color: red;
+  font-size: 50rpx;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  margin: 20rpx 0 40rpx;
+  padding-bottom: 5px;
+  letter-spacing: 2rpx;
+  font-family: YouYun;
+  border-bottom: 3px solid #e78f1b;
+  border-top: 3px solid #e78f1b;
+  border-left: 3px solid #e78f1b;
+  border-right: 3px solid #e78f1b;
+  border-radius: 25px;
+}
+
+video {
+  width: 100%;
+ display: flex;
+
+}
+
+.bg {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+  filter: opacity(0.8);
+}
+
+.container {
+  width: 80%;
+  height: 100%;
+ margin-left: 50rpx;
+ 
+ 
+}
+.word1{
+font-family:STXihei;
+font-size: 35rpx;
+color:black;
+text-align: left;
+
+}

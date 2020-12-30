@@ -1,0 +1,7 @@
+<!--pages/mrdt5/mrdt5.wxml-->
+
+<text class="title">Dubai Creek Tower:Building the World's Tallest Structure</text>
+<video src="http://localhost:8080/res/mrdt/mrdt5.mp4"></video>
+<text class="word">
+
+</text>

@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/list/list",
+    "pages/cet4/cet4",
+    "pages/cet6/cet6",
+    "pages/resource/resource",
+    "pages/4words/4words",
+    "pages/4listening/4listening",
+    "pages/4comprehension/4comprehension",
+    "pages/4writing/4writing",
+    "pages/4translation/4translation",
+    "pages/4skill/4skill",
+    "pages/4lnzt/4lnzt",
+    "pages/4gpcz/4gpcz",
+    "pages/4gpdy/4gpdy",
+
+    "pages/transtale/transtale",
+    
+    "pages/6words/6words",
+    "pages/6listening/6listening",
+    "pages/6comprehension/6comprehension",
+    "pages/6writing/6writing",
+    "pages/6translation/6translation",
+    "pages/6skill/6skill",
+    "pages/6lnzt/6lnzt",
+    "pages/mrdt1/mrdt1",
+    "pages/mrdt2/mrdt2",
+    "pages/mrdt3/mrdt3",
+    "pages/mrdt4/mrdt4",
+    "pages/mrdt5/mrdt5",
+    "pages/mrdt6/mrdt6",
+    "pages/mrdt7/mrdt7",
+    "pages/mrdt8/mrdt8"
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "英语学习助手",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+
+}

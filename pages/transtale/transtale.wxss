@@ -1,0 +1,38 @@
+/* pages/transtale/transtale.wxss */
+Page {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  background: #f7f8f9;
+}
+
+.root {
+  width: 100%;
+  height: 100%;
+}
+
+/* 选择语言 */
+.choose-lang {
+  font-size: 30rpx;
+  padding: 15rpx 25rpx;
+  color: #8995a1;
+}
+
+
+.input-area {
+  width: 100%;
+  height: 330rpx;
+  padding: 15rpx 25rpx;
+  background: #fff;
+  font-size: 30rpx;
+  
+}
+
+.output-area {
+  width: 100%;
+  height: 200rpx;
+  margin-top: 15rpx;
+  padding: 15rpx 25rpx;
+  background: #fff;
+  color: #8995a1;
+}

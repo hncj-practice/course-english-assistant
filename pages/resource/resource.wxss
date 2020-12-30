@@ -1,0 +1,25 @@
+/* pages/resource/resource.wxss */
+.title{
+  font-size: 30px;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 45px;
+
+}
+.word{
+  font-size: 18px;
+  text-indent: 2em;
+  word-spacing: 10px;
+}
+image{
+  width: 100%;
+  
+}
+.word1{
+  font-size: 20px;
+  font-weight: bold;
+  text-indent: 2em;
+  word-spacing: 2px;
+  color: black;
+
+}

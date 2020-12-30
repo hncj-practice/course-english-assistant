@@ -1,0 +1,41 @@
+<view class="title">
+  <view bindtap="bindgpchtap">
+    <image class="image" src="../../images/words.jpg"></image>
+    <text class="word">高频词汇</text>
+  </view>
+
+  <view bindtap="bindtltap">
+    <image class="image" src="../../images/listening.jpg"></image>
+    <text class="word1">听力</text>
+  </view>
+
+  <view bindtap="bindydljtap">
+    <image class="image" src="../../images/comprehension.jpg"></image>
+    <text class="word">阅读理解</text>
+  </view>
+</view>
+
+<view class="title"> 
+
+  <view bindtap="bindxztap">
+    <image class="image" src="../../images/writing.jpg"></image>
+    <text class="word1">写作</text>
+  </view>
+
+  <view bindtap="bindfytap">
+    <image class="image" src="../../images/translation.jpg"></image>
+    <text class="word1">翻译</text>
+  </view>
+
+  <view bindtap="binddfjqtap">
+    <image class="image" src="../../images/skill.jpg"></image>
+    <text class="word">夺分技巧</text>
+  </view>
+</view>
+
+<view class="title">
+<view bindtap="bindlnzttap">
+  <image class="image" src="../../images/lnzt.jpg"></image>
+  <text class="word">历年真题</text>
+</view>
+</view>

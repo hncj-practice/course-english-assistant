@@ -1,0 +1,10 @@
+<!--pages/4listening/4listening.wxml-->
+
+<view >
+  <view class="container">
+    <block wx:for="{{datalist}}" wx:for-item="item">
+      <text class="word1">{{item.txt}}</text>
+      <video src="{{item.src}}"> </video>
+    </block>
+  </view>
+</view>

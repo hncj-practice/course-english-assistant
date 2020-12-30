@@ -1,0 +1,9 @@
+/* pages/6skill/6skill.wxss */
+.title{
+  font-size: 30px;
+  margin-left: 100px;
+}
+.word{
+
+font-size: 20px;
+}

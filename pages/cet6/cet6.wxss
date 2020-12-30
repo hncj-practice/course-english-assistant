@@ -1,0 +1,23 @@
+/* pages/CET6/CET6.wxss */
+.image{
+  width: 60px;
+  height: 60px;
+  margin-left: 50px;
+  margin-top: 30px;
+ 
+}
+.title{
+  margin-top: 60px;
+ display:flex;
+ /* border: 1rpx solid rgb(86, 70, 148);
+  border-radius: 5%; */
+}
+.word{
+ margin-left: 50px;
+  display: flex;
+}
+.word1{
+ margin-left: 65px;
+  display: flex;
+
+}

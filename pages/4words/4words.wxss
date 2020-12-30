@@ -1,0 +1,9 @@
+/* pages/4words/4words.wxss */
+.title{
+  font-size: 25px;
+  margin-left: 110px
+}
+.word{
+  font-size: 20px;
+  margin-top: 2px;
+}

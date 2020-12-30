@@ -1,0 +1,20 @@
+<!--pages/transtale/transtale.wxml-->
+<view class="root">
+
+<!-- 选择语言 -->
+<picker class="choose-lang" bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+  <view class="picker">
+    {{array[index]}}▾
+  </view>
+</picker>
+
+<!-- 输入区域 -->
+<textarea class="input-area" placeholder="在此输入要翻译的文本" bindinput="onInput" bindconfirm="translate"
+  placeholder-style="color: #8995a1"></textarea>
+
+<!-- 输出区域 -->
+<view class="output-area" bindtap="translate">
+  {{translation}}
+</view>
+
+</view>

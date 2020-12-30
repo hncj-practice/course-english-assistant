@@ -1,0 +1,9 @@
+/* pages/4gpdy/4gpdy.wxss */
+.title{
+  font-size: 50rpx;
+  color: black;
+
+}
+.word{
+  font-size: 35rpx;
+}

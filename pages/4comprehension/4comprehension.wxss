@@ -1,0 +1,16 @@
+/* pages/4comprehension/4comprehension.wxss */
+.word{
+font-size: 35rpx;
+text-align: 2rpx;
+margin: 0px,100px,0px,200px;
+}
+.title{
+  font-size: 40rpx;
+  color: black;
+  text-align: center;
+  margin-left: 40px;
+  
+}
+.word1{
+  font-weight: bold;
+}

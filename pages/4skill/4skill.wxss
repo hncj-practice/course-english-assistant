@@ -1,0 +1,9 @@
+/* pages/4skill/4skill.wxss */
+.title{
+  font-size: 50rpx;
+  color: black;
+
+}
+.word{
+  font-size: 35rpx;
+}

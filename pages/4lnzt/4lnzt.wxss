@@ -1,0 +1,23 @@
+/* pages/4lnzt/4lnzt.wxss */
+
+.title {
+  font-size: 40rpx;
+  color: blue;
+  font-family: YouYun;
+  text-align: center;
+}
+
+/* pages/4lnzt/4lnzt.wxss 控制显示的行数，多余的行数以...显示*/
+
+.word {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 100; /* 这里控制行数 */
+  -webkit-box-orient: vertical;
+}
+
+.word1 {
+ font-size: 32rpx;
+ margin-right: 20rpx
+}

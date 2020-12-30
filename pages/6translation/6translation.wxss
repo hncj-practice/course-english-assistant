@@ -1,0 +1,7 @@
+/* pages/6translation/6translation.wxss */
+.word{
+  font-size: 20px;
+}
+.title{
+  font-size: 25px;
+}

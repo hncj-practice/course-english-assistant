@@ -1,0 +1,16 @@
+/* pages/mrdt4/mrdt4.wxss */
+video{
+  width: 100%;
+   display: flex;
+  position: fixed;
+}
+.title{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 35px;
+}
+.word{
+  font-size: 20px;
+  margin-left: 50rpx;
+  text-indent: 2em;
+}

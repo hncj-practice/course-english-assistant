@@ -1,0 +1,33 @@
+/* pages/CET4/CET4.wxss */
+
+.image{
+
+  width: 60px;
+  height: 60px;
+  margin-left: 50px;
+  margin-top: 30px;
+ 
+}
+.title{
+  margin-top: 60px;
+ display:flex;
+
+}
+.word{
+ margin-left: 50px;
+  display: flex;
+}
+.word1{
+ margin-left: 65px;
+  display: flex;
+
+}
+
+.image1{
+
+  width: 60px;
+  height: 60px;
+  margin-left: 50px;
+  margin-top: 55px;
+ 
+}

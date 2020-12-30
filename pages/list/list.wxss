@@ -1,0 +1,164 @@
+/* pages/list/list.wxss */
+
+.translate {
+  font-size: 40rpx;
+  color: black;
+  /* margin-top: 30px;
+margin-left: 50px; *//* border: 1rpx double rgb(86, 70, 148);
+border-radius: 5% */
+}
+
+.cet4 {
+  font-size: 40rpx;
+  color: black;
+  /* margin-top: 30px;
+margin-left: 50px;
+margin-right: 100px; *//* border: 1rpx double rgb(86, 70, 148);
+border-radius: 5% */
+}
+
+.cet6 {
+  font-size: 40rpx;
+  color: black;
+  /* margin-top: 30px;
+margin-left: 50px;
+margin-right: 100px; *//* border: 1rpx double rgb(86, 70, 148);
+border-radius: 5% */
+}
+
+.resource {
+  font-size: 40rpx;
+  color: black;
+  /* text-align: center;
+margin-top: 30px;
+margin-left: 50px;
+margin-right: 100px; *//* border: 1rpx solid rgb(86, 70, 148);
+border-radius: 5% */
+}
+
+.imagecet4 {
+  width: 100px;
+  height: 80px;
+  border: 1rpx solid rgb(86, 70, 148);
+  border-radius: 5%;
+}
+
+.imagecet6 {
+  width: 100px;
+  height: 80px;
+  border: 1rpx solid rgb(86, 70, 148);
+  border-radius: 5%;
+}
+
+.imagetranslate {
+  width: 100px;
+  height: 80px;
+  margin-right: 2px;
+  border: 1rpx solid rgb(86, 70, 148);
+  border-radius: 5%;
+}
+
+/* .bg{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    filter: opacity(0.4);
+  } */
+
+swiper {
+  width: 100%;
+  height: 500rpx;
+}
+
+swiper image {
+  width: 100%;
+  height: 500rpx;
+}
+
+.wc {
+  background-color: rgba(30, 30, 187, 0.171);
+  z-index: -1;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 250px;
+  position: fixed;
+  bottom: 0;
+  /* margin-left: 30px *//* margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25% */
+}
+
+.word1 {
+  margin-left: 33px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.word2 {
+  margin-left: 13px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.bg {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+  filter: opacity(0.1);
+}
+
+.wd {
+  width: 50px;
+  height: 50px;
+  margin-left: 30px;
+}
+
+.bottom {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 120px;
+  margin-right: 20px;
+  color: gainsboro;
+}
+
+.word {
+  display: flex;
+  margin-left: 40px;
+}
+
+.mrdt {
+  margin-left: 50rpx;
+  margin-top: 50rpx;
+  margin-right: 50rpx;
+  background-color: 245, 246, 248;
+  border: 5rpx solid gainsboro;
+  border-radius: 5%;
+  /* background-color:gainsboro;   *//* position: fixed; */
+}
+
+.mrdt_image {
+  width: 100%;
+  height: 110rpx;
+}
+
+.stop_image {
+  width: 8%;
+  height: 50rpx;
+  margin-left: 20rpx;
+  margin-top: 10rpx;
+}
+
+.play_image {
+  width: 15%;
+  height: 80rpx;
+  margin-right: 180rpx;
+}
+
+.mrdt_word {
+  font-size: 30rpx;
+  font-style: italic;
+  font-weight: 500;
+  
+}
